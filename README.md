@@ -1,2 +1,2 @@
-# ccrypton 
-super-duper cryptocurrency dashboard🦸🏻‍♂️🦸🏻‍♀️
+# Ccrypton 
+super-duper cryptocurrency dashboard 🦸🏻‍♂️🦸🏻‍♀️
